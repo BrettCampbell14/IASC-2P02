@@ -2,7 +2,7 @@
 
 ## About Me
 
-My bio goes here
+45th President of the United States of America
 
 ![](Images/giraffe.jpg)
 
