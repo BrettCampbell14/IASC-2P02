@@ -4,7 +4,7 @@
 
 My bio goes here
 
-![](images/giraffe.jpg)
+![](Images/giraffe.jpg)
 
 ## Blog Post
 
