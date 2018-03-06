@@ -8,4 +8,4 @@
 
 ## Blog Post
 
-First sentence of blog post goes here... [continue reading](blog)
+Here is my blog post [continue reading](blog)
