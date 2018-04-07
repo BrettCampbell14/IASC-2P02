@@ -26,7 +26,7 @@ Here is my 250 word collaboration statement. (include image and commit) I approa
 
 
 ## Research Presentation
-[Blackberry Phones - How Things Could Have Gone Differently] (https://brettcampbell14.github.io/IASC-2P02/reveal/index.html)
+[Blackberry Phones - How Things Could Have Gone Differently](https://brettcampbell14.github.io/IASC-2P02/reveal/index.html)
 
 
 ## Academic Blog
