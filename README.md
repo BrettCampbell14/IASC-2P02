@@ -6,11 +6,12 @@
 
 ![](Images/giraffe.jpg)
 
-## Featured Project: [title of project here]
+## Featured Project: [Blackberry Phones - How Things Could Have Gone Differently]
 
-![](images/featured.jpg)
+![](images/blackberryiphone.jpg)
 
-Here are 250 words introducing this work
+In this project, I discussed the downfall of Blackberry phones, the rise of competitor brands (specifically Apple's iPhone), and considered the counterfactual reality where the Blackberry remained in the spotlight. Topics that were explored were how the Blackberry would have fit in, how it would have functioned, how other brands would co-exist with it, and how Blackberry as a company would have continued to develop and exist in the modern day. This was presented as a Pucha Kucha, a format which encouraged free speaking from the presenter. The project doesn’t push towards any real argument and doesn’t lean towards either side, but rather, provides the listeners with a number of different ideas to consider. I believe with a topic like this one – while there are “winners” and “losers” amongst tech companies – there is no right or wrong method of going about developing products, but rather, there are some ideas that were more accepted at that time and some that were not. Both positives and negatives are given in relation to both Blackberry phones as well as its competitors (again, more specifically iPhones). In the end, what the listener can take away is that technology is not moving on a solid path going from bad to good to better. Instead, we are moving in a direction based on going forward with what was found to be successful in its time, which doesn’t necessarily mean that the failing ideas or brands were worse or less important.
+
 
 Here is my 250 word statement describing how this research evolved over time. I made these changes, which you can see [here](link here)
 I also made these changes which you can see [here](another link). Overall, these changes show x and y changes in my thinking.
