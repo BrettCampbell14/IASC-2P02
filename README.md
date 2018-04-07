@@ -2,9 +2,7 @@
 
 ## Bio
 
-45th President of the United States of America
-
-![](Images/giraffe.jpg)
+A second year student at Brock University's Interactive Arts and Sciences program with a specific focus on design and digital expression.
 
 ## Featured Project: [Blackberry Phones - How Things Could Have Gone Differently]
 
@@ -20,7 +18,7 @@ Read [title goes here](readme)
 
 ## Collaborative Project
 
-Here is my 100-word project description.
+In this project, myself and my groupmates explored the tool Prism, a program created by the Scholar’s Lab of the University of West Virginia. This website was developed with the aim of “crowdsourcing interpretation.” The tool allows users to give their interpretation of the texts provided and compare it against other’s interpretations. As a group, we tested the programs various features, from interpreting other user’s texts, to uploading our own to be interpreted by others. We created a slideshow presentation from the information we gathered, with each of us focusing on specific aspects of our findings. My part can be found below.
 
 Here is my 250 word collaboration statement. (include image and commit) I approach collaboration in x ways which is reflected in y work (available [here] (link commit)) I also approach collaboration in a ways which is reflected in b work, and that is available [here](link another commit) i also contributed x assets to my team as seen below. approach and philosophy of working in teams and collaborating
 
