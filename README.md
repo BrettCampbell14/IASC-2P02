@@ -4,7 +4,8 @@
 
 A second year student at Brock University's Interactive Arts and Sciences program with a specific focus on design and digital expression.
 
-## Featured Project: [Blackberry Phones - How Things Could Have Gone Differently]
+## Featured Project: [Blackberry Phones - How Things Could Have Gone Differently](https://brettcampbell14.github.io/IASC-2P02/reveal/index.html)
+
 
 ![](images/blackberryiphone.jpg)
 
