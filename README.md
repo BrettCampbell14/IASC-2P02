@@ -7,7 +7,7 @@ A second year student at Brock University's Interactive Arts and Sciences progra
 ## Featured Project: [Blackberry Phones - How Things Could Have Gone Differently](https://brettcampbell14.github.io/IASC-2P02/reveal/index.html)
 
 
-![](images/blackberryiphone.jpg)
+![](Images/blackberryiphone.jpg)
 
 In this project, I discussed the downfall of Blackberry phones, the rise of competitor brands (specifically Apple's iPhone), and considered the counterfactual reality where the Blackberry remained in the spotlight. Topics that were explored were how the Blackberry would have fit in, how it would have functioned, how other brands would co-exist with it, and how Blackberry as a company would have continued to develop and exist in the modern day. This was presented as a Pucha Kucha, a format which encouraged free speaking from the presenter. The project doesn’t push towards any real argument and doesn’t lean towards either side, but rather, provides the listeners with a number of different ideas to consider. I believe with a topic like this one – while there are “winners” and “losers” amongst tech companies – there is no right or wrong method of going about developing products, but rather, there are some ideas that were more accepted at that time and some that were not. Both positives and negatives are given in relation to both Blackberry phones as well as its competitors (again, more specifically iPhones). In the end, what the listener can take away is that technology is not moving on a solid path going from bad to good to better. Instead, we are moving in a direction based on going forward with what was found to be successful in its time, which doesn’t necessarily mean that the failing ideas or brands were worse or less important.
 
@@ -22,9 +22,9 @@ In this project, myself and my groupmates explored the tool Prism, a program cre
 
 Through collaboration, my team was able to form a deeper understanding of the programs function, by comparing our own experiences using Prism against each other. Prism is a website that relies on comparing different perspectives and therefore, exploring its functions on one’s own would only cover one angle of a multi-faceted program. To organize how we’d execute this assignment, my teammates and I split the presentation into four parts, with each of us covering one topic. To create our group presentation my group made use of google slides, allowing each of us to complete our own parts on our own time. Here are two of my slides in which I discussed the use of Prism as a tool for making multimodal arguments as well as whether it could be used in future courses in our program:
 
-![](images/slide 1 (2).png)
+![](Images/slide 1 (2).png)
 
-![](images/side 2 (2).png)
+![](Images/side 2 (2).png)
 
 This also allowed us to view each others work and make constructive comments on what could be improved and what could be done differently. In addition to working over a shared powerpoint, we also decided to meet up together in person to discuss our progress on the assignment. While working entirely over the internet would have sufficed, we found it would be beneficial to meet in person as this would encourage us to be working at – more or less – the same pace and will keep ourselves accountable of having a certain amount completed by that date so it wouldn’t be left to the last minute. As a group we were able to combine our strengths as well as accommodate for each others weaknesses to create a polished finished project. My slides for this project can be found in [this commit.]( https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/f3b1a06877a21501f56f54aa45f0e93a532d7267#diff-f23dd7af6f2e736eda00dc7288e33f8f)
 
