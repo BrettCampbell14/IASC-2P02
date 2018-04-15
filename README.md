@@ -23,9 +23,9 @@ In this project, myself and my groupmates explored the tool Prism, a program cre
 
 Through collaboration, my team was able to form a deeper understanding of the programs function, by comparing our own experiences using Prism against each other. Prism is a website that relies on comparing different perspectives and therefore, exploring its functions on one’s own would only cover one angle of a multi-faceted program. To organize how we’d execute this assignment, my teammates and I split the presentation into four parts, with each of us covering one topic. To create our group presentation my group made use of google slides, allowing each of us to complete our own parts on our own time. Here are two of my slides in which I discussed the use of Prism as a tool for making multimodal arguments as well as whether it could be used in future courses in our program:
 
-![](Images/ slide 1 (2).png)
+![](Images/slide1.png)
 
-![](Images/ side 2 (2).png)
+![](Images/slide2.png)
 
 This also allowed us to view each others work and make constructive comments on what could be improved and what could be done differently. In addition to working over a shared powerpoint, we also decided to meet up together in person to discuss our progress on the assignment. While working entirely over the internet would have sufficed, we found it would be beneficial to meet in person as this would encourage us to be working at – more or less – the same pace and will keep ourselves accountable of having a certain amount completed by that date so it wouldn’t be left to the last minute. As a group we were able to combine our strengths as well as accommodate for each others weaknesses to create a polished finished project. My slides for this project can be found in [this commit.]( https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/f3b1a06877a21501f56f54aa45f0e93a532d7267#diff-f23dd7af6f2e736eda00dc7288e33f8f)
 
