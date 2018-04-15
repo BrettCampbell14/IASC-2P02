@@ -2,7 +2,8 @@
 
 ## Bio
 
-A second year student at Brock University's Interactive Arts and Sciences program with a specific focus on design and digital expression.
+Currently a second year student at Brock University's Interactive Arts and Sciences program with a specific focus on design and digital expression. The projects featured in this page demonstrate different areas of knowledge related to digital scholarship. Through my time in Brock University’s IASC program, I have developed my understanding of design, digital prototyping, theoretical concepts and the like with the aims of achieving a well rounded portfolio that demonstrates my many strengths as a student. I am passionate about this field of study and aim to take these skills with me beyond university into the professional world as well.
+
 
 ## Featured Project: [Blackberry Phones - How Things Could Have Gone Differently](https://brettcampbell14.github.io/IASC-2P02/reveal/index.html)
 
